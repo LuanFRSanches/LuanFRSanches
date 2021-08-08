@@ -5,13 +5,14 @@
 
  <div>
   <a href="https://github.com/LuanFRSanches">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanFRSanches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFRSanches&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanFRSanches&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanFRSanches&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="LuanFRSanches-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="LuanFRSanches-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="LuanFRSanches-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg">
 </div>
 <br/>
 <div> 
